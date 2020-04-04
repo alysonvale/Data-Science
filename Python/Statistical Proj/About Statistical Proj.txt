@@ -1,0 +1,9 @@
+Projeto aplicado em estatistica com o conjunto da linguagem Python, 
+com a plataforma Anaconda e a biblioteca Pandas.
+
+Projeto realizado com: João Edinaldo Gomes dos Santos e Alyson Matheus Vale.
+
+Project applied in statistics with the Python language set, 
+with the Anaconda platform and the Pandas library.
+
+Project carried out with: João Edinaldo Gomes dos Santos and Alyson Matheus Vale.
